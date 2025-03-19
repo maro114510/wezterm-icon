@@ -1,7 +1,7 @@
 # WezTerm Application Icon
 
 <p float="left">
-	<img src="wezterm.png" width="180">
+	<img src="icons/wezterm-thick.png" width="180">
 </p>
 
 An alternative MacOS application icon for [WezTerm](https://wezfurlong.org/wezterm/).
@@ -9,7 +9,7 @@ An alternative MacOS application icon for [WezTerm](https://wezfurlong.org/wezte
 ### Installation
 
 ```sh
-$ make install
+$ make install-<icon-name>
 ```
 
 ### Manual installation
@@ -35,3 +35,7 @@ $ make
 ### Inspiration
 
 - [kitty-icon by DinkDonk](https://github.com/DinkDonk/kitty-icon)
+
+### Thanks
+
+- https://github.com/wezterm/wezterm/discussions/2396
